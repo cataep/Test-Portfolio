@@ -14,6 +14,7 @@ This repository includes examples of:
 Each folder contains weekly tasks and real-world inspired test documentation.
 
 
+
 **TR:**  
 Yazılım test becerilerimi ve uygulamalarımı sergilemek için hazırladığım kişisel test portföyüm.
 
