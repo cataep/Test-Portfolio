@@ -37,5 +37,4 @@ Yüksek (High)
 Yüksek (High)
 
 ## Ek  
-Ekran görüntüsü eklenecekse:  
-`./ekran_goruntuleri/bug_001.png`
+Ekran görüntüsü eklenecek
