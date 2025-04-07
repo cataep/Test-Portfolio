@@ -1,0 +1,1 @@
+# Hata Raporu - BankApp
