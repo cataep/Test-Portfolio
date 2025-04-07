@@ -3,7 +3,8 @@
 Bu klasörde yer alan `Test_Senaryolari.xlsx` dosyası, BankApp uygulamasına ait manuel test senaryolarını içermektedir.
 
 ##  Dosya Adı
-[Excel dosyasını görüntüle](./Test_Senaryolari.xlsx)
+[→ Test_Senaryolari.xlsx dosyasını buradan görüntüleyin](./Test_Senaryolari.xlsx)
+
 
 
 
