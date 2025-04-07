@@ -2,7 +2,7 @@ Bu klasör, kurgusal bir bankacılık uygulaması için manuel test dökümanlar
 
 ## Test Senaryoları
 
-Bu klasörde yer alan `Test_Cases_TR.xlsx` dosyası, BankApp uygulamasına ait manuel test senaryolarını içermektedir.
+Bu klasörde yer alan Excel dosyası, BankApp uygulamasına ait manuel test senaryolarını içermektedir.
 
 Test teknikleri:
 - Denklik Paylarına Ayırma Testi (Eşdeğer Aralık Testi)
