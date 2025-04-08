@@ -20,10 +20,16 @@ Bu test planı, "BankApp" projesi için hazırlanmıştır ve kullanıcı giriş
 - Oturum kapatmanın düzgün çalıştığını doğrulamak
 
 ## 4. Test Ortamı  
-- Platform: Web uygulaması (responsive)  
-- Tarayıcılar: Google Chrome (güncel), Mozilla Firefox (güncel)  
-- İşletim Sistemi: Windows 10  
-- Test Verisi: Önceden tanımlanmış kullanıcılar ve hesap bakiyeleri
+- Web tarayıcısı: Chrome (v120), Firefox (v117)
+- İşletim Sistemi: Windows 10, Ubuntu 22.04
+- Mobil Cihazlar:  
+  - Android 11 (Samsung Galaxy A35, Chrome Mobil v120)  
+  - iOS 16 (Safari Mobil)
+
+- Ekran çözünürlükleri:  
+  - Masaüstü: 1920x1080  
+  - Mobil: 390x844 (Pixel), 414x896 (iPhone)
+
 
 ## 5. Giriş Kriterleri  
 - Giriş, transfer ve çıkış işlemlerine ait geliştirme tamamlanmış olmalı  
