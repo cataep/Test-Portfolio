@@ -14,7 +14,7 @@ Bu klasörde yer alan `Test_Senaryolari.xlsx` dosyası, BankApp uygulamasına ai
 - Denklik Paylarına Ayırma (Equivalence Partitioning)
 - Durum Geçişi Testi (State Transition Testing)
 
-## Senaryo Sayısı: 5
+## Senaryo Sayısı: 6
 
 Her test senaryosu şu bilgileri içerir:
 - Test ID
