@@ -53,3 +53,38 @@ Yüksek (High)
 
 ## Ek  
 Ekran görüntüsü eklenecek
+---
+
+## Hata ID  
+BUG-002
+
+## Başlık  
+Mobil görünümde butonlar ekran dışına taşıyor
+
+## Açıklama  
+Kullanıcı mobil cihazdan giriş yaptığında, para transfer ekranındaki "Gönder" ve "İptal" butonları ekranın sağ köşesinin dışına taşarak görünmez hale geliyor.
+
+## Ön Koşullar  
+- Kullanıcı mobil tarayıcıdan giriş yapmalı  
+- Android veya iOS cihaz kullanılmalı
+
+## Adımlar  
+1. Mobil cihazdan uygulamaya giriş yap  
+2. Para transfer ekranına git  
+3. Sayfanın alt kısmına kaydır
+
+## Beklenen Sonuç  
+Tüm butonlar ekranın içinde ve düzgün hizalanmış şekilde görünmelidir.
+
+## Gerçek Sonuç  
+Butonlar sağa taşmış, kullanıcı tıklayamıyor.
+
+## Ciddiyet  
+Orta
+
+## Öncelik  
+Orta
+
+## Ek  
+Ekran görüntüsü eklenecek`
+
