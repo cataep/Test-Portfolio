@@ -54,6 +54,8 @@ Yüksek (High)
 ## Ek  
 Ekran görüntüsü eklenecek
 
+---
+
 ## Hata ID  
 BUG-002
 
@@ -85,5 +87,5 @@ Orta
 Orta
 
 ## Ek  
-Ekran görüntüsü eklenecek`
+Ekran görüntüsü eklenecek
 
