@@ -13,7 +13,7 @@ Test ID: TC05 – Yetersiz bakiye ile para transferi testi
 ## Başlık  
 Para transferinde negatif bakiye oluşmasına izin veriliyor
 
-## Açıklama  
+ Açıklama  
 Kullanıcı, gönderici hesabında yeterli bakiye olmamasına rağmen para transferi işlemini tamamlayabiliyor. Bu işlem sonrası gönderici hesabın bakiyesi negatif değere düşmektedir.
 ---
 
