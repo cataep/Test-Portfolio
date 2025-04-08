@@ -53,7 +53,6 @@ Yüksek (High)
 
 ## Ek  
 Ekran görüntüsü eklenecek
----
 
 ## Hata ID  
 BUG-002
