@@ -15,6 +15,19 @@ Para transferinde negatif bakiye oluşmasına izin veriliyor
 
 ## Açıklama  
 Kullanıcı, gönderici hesabında yeterli bakiye olmamasına rağmen para transferi işlemini tamamlayabiliyor. Bu işlem sonrası gönderici hesabın bakiyesi negatif değere düşmektedir.
+---
+
+## Bu Test Neden Durum Geçiş Testidir?
+
+Bu hata, sistemin bir durumdan başka bir duruma geçerken beklenen kontrolü yapmaması sonucu ortaya çıkmıştır.
+
+- **Başlangıç Durumu:** Gönderen hesabın bakiyesi 0 TL  
+- **Tetikleyici Eylem:** Kullanıcı para transferi yapmaya çalışıyor  
+- **Beklenen Geçiş:** Transfer işlemi engellenmeli, bakiye değişmemelidir  
+- **Gerçekleşen Geçiş:** Transfer gerçekleşti ve bakiye -1000 TL oldu
+
+Bu nedenle bu senaryo, sistemin **durumlar arası geçişini** test ettiği için **Durum Geçiş Testi** (State Transition Testing) kapsamındadır.
+
 
 ## Ön Koşullar  
 - Kullanıcı giriş yapmış olmalı  
