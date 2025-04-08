@@ -15,7 +15,6 @@ Para transferinde negatif bakiye oluşmasına izin veriliyor
 
 ## Açıklama  
 Kullanıcı, gönderici hesabında yeterli bakiye olmamasına rağmen para transferi işlemini tamamlayabiliyor. Bu işlem sonrası gönderici hesabın bakiyesi negatif değere düşmektedir.
----
 
 ## Bu Test Neden Durum Geçiş Testidir?
 
