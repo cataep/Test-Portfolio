@@ -42,7 +42,7 @@ Bu nedenle bu senaryo, sistemin **durumlar arası geçişini** test ettiği içi
 Sistem, yetersiz bakiye nedeniyle işlemi engellemeli ve uyarı göstermelidir:  
 > "Yetersiz bakiye. İşlem gerçekleştirilemedi."
 
-## Gerçek Sonuç  
+## Gerçekleşen Sonuç  
 Transfer işlemi tamamlandı ve gönderici hesabın bakiyesi -1000 TL oldu.
 
 ## Ciddiyet  
