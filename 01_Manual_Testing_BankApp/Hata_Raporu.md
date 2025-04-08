@@ -6,6 +6,9 @@ Bu dosyada BankApp uygulamasına ait tespit edilen bir örnek hata raporu yer al
 
 ## Hata ID  
 BUG-001
+## İlgili Test Senaryosu
+Test ID: TC05 – Yetersiz bakiye ile para transferi testi
+
 
 ## Başlık  
 Para transferinde negatif bakiye oluşmasına izin veriliyor
