@@ -15,5 +15,5 @@ Bu klasör, Postman ile yapılan API testlerini içermektedir.
 ## Dosyalar
 
 - `BankApp_API_Testleri.json` – Postman koleksiyonu
-- `Test_Cases_TR.xlsx` – API test senaryoları Excel tablosu (isteğe bağlı)
+- `Test_Cases_TR.xlsx` – API test senaryoları Excel tablosu
 
