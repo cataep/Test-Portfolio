@@ -25,6 +25,15 @@ Varsayımsal bir mobil bankacılık uygulamasında:
 - Negatif Testler
 - Kullanılabilirlik gözlemleri
 
+  ## Kullanılan Test Teknikleri
+
+- Eşdeğer Sınıf Bölme: Geçerli/geçersiz IBAN girişi
+- Sınır Değeri Analizi: 0₺, tam bakiye ve eksi bakiye durumları
+- Negatif Testler: Hatalı giriş, yetersiz bakiye gibi senaryolar
+- Pozitif Testler: Beklenen başarılı işlemlerin kontrolü
+- UI/Görsel Test: Splash ekran, yenile butonu ve bildirim mesajları
+
+
 ## Dosyalar
 
 - `Mobil_Test_Senaryolari.xlsx`: Test senaryolarının yer aldığı tablo
