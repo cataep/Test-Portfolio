@@ -1,41 +1,66 @@
 # 04_Mobile_Testing_BankApp
 
-Bu klasör, bir mobil bankacılık uygulaması için varsayımsal olarak hazırlanmış test senaryolarını içermektedir. Amaç, mobil uygulamada karşılaşılabilecek temel arayüz ve işlevsel hataları test etmektir.
+Bu klasör, bir mobil bankacılık uygulaması için hem **fonksiyonel** hem de **fonksiyonel olmayan** test senaryolarını içermektedir.
 
-## Test Konusu
+##  Test Edilen Uygulama (Varsayımsal)
 
-Varsayımsal bir mobil bankacılık uygulamasında:
-- Kullanıcı giriş ekranı
-- Ana ekran (bakiye/hareketler)
-- Para transferi
-- Uyarı mesajları
-- Uygulama açılış ve yenileme ekranları
+- Uygulama: Mobil BankApp
+- Platform: Android
+- Cihaz: Samsung Galaxy A35 (Android 13)
 
-## Test Ortamı (Varsayımsal)
+##  Test Amaçları
 
-- Cihaz: Android – Samsung Galaxy A35  
-- İşletim Sistemi: Android 13  
-- Ekran Boyutu: 1080x2400  
-- Ağ Durumu: Wi-Fi ve LTE
+- Bankacılık uygulamasının temel işlevlerinin doğruluğunu test etmek (Giriş, para transferi, bakiye görüntüleme vb.)
+- Uygulamanın kararlılığı, performansı ve kullanıcı deneyimini değerlendirmek
 
-## Test Türleri
+---
 
-- UI Testleri
-- Fonksiyonel Testler
-- Negatif Testler
-- Kullanılabilirlik gözlemleri
+##  Fonksiyonel Testler
 
-  ## Kullanılan Test Teknikleri
+Fonksiyonel testler uygulamanın ne yaptığına odaklanır. Örneğin:
 
-- Eşdeğer Sınıf Bölme: Geçerli/geçersiz IBAN girişi
-- Sınır Değeri Analizi: 0₺, tam bakiye ve eksi bakiye durumları
-- Negatif Testler: Hatalı giriş, yetersiz bakiye gibi senaryolar
-- Pozitif Testler: Beklenen başarılı işlemlerin kontrolü
-- UI/Görsel Test: Splash ekran, yenile butonu ve bildirim mesajları
+- Splash screen görünürlüğü
+- Hesap hareketleri ekranı
+- Para transferi işlemleri
+- Negatif test senaryoları (eksik IBAN, eksi bakiye vs.)
+
+---
+
+##  Fonksiyonel Olmayan Testler
+
+Uygulamanın **nasıl davrandığını** test eder:
+
+- Açılış süresi (Performans)
+- İnternetsiz senaryolarda hata yönetimi (Dayanıklılık)
+- Oturum zaman aşımı (Güvenlik)
+- RAM kullanımı altındaki kararlılık (Stabilite)
+
+Bu testler, fonksiyonel testlerin hemen ardından **aynı Excel dosyasında** yer almaktadır.
+
+---
+
+##  Dosyalar
+
+| Dosya Adı                            | Açıklama                                   |
+|-------------------------------------|--------------------------------------------|
+| `Mobile_Test_Cases.xlsx`   | Tüm test senaryoları (fonksiyonel + fonksiyonel olmayan) |
+
+---
+
+##  Kullanılan Test Teknikleri
+
+- Eşdeğer Sınıf Bölme  
+- Sınır Değeri Analizi  
+- Pozitif / Negatif Test  
+- Görsel UI Kontrolü  
+- Zamanlama ve Performans Testi  
+- Kullanılabilirlik ve Stabilite Testleri  
+
+---
+
+##  Not
+
+Fonksiyonel olmayan testler, dosyanın sonunda ayrı bir başlık altında yer alır ve "Fonksiyonel Olmayan Test" olarak etiketlenmiştir.
 
 
-## Dosyalar
-
-- `Mobil_Test_Senaryolari.xlsx`: Test senaryolarının yer aldığı tablo
-- `Mobil_Test_Planı_TR.md`: Testin kapsamı, amacı ve türlerine dair plan belgesi
 
