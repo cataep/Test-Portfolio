@@ -6,7 +6,7 @@ Testler, [Dollar Bank](https://dollar.bank) sitesinin erişilebilen sayfaları �
 
 ---
 
-## 🧪 Kapsanan Test Senaryoları
+##  Kapsanan Test Senaryoları
 
 | Test ID         | Senaryo Açıklaması                                                                 | Tür       | Durum  |
 |------------------|------------------------------------------------------------------------------------|------------|---------|
