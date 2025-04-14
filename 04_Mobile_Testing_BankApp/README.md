@@ -41,9 +41,12 @@ Bu testler, fonksiyonel testlerin hemen ardından **aynı Excel dosyasında** ye
 
 ## Test Senaryoları Dosyası
 
-Tüm mobil bankacılık uygulaması test senaryolarına aşağıdaki Excel dosyasından ulaşabilirsiniz:
+Bu klasör, bankacılık mobil uygulaması için hazırlanmış test senaryolarını içermektedir.  
+Detaylar için aşağıdaki dosyayı inceleyebilirsiniz:
 
  [Mobile_Test_Cases.xlsx](./04_Mobile_Testing_BankApp/Mobile_Test_Cases.xlsx)
+
+
 
 
 ---
