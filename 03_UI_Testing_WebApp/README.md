@@ -25,7 +25,10 @@ Testler, [Dollar Bank](https://dollar.bank) sitesinin erişilebilen sayfaları �
 
 ## Dosyalar
 
-- `UI_Test_Cases_BankApp.xlsx` → Test senaryolarının tablo halinde yer aldığı Excel dosyası
+Tüm UI test senaryolarını içeren Excel dosyasına buradan ulaşabilirsiniz:
+
+[UI_Test_Cases_BankApp.xlsx](./03_UI_Testing_WebApp/UI_Test_Cases_BankApp.xlsx)
+
 
 ---
 
