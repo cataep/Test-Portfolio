@@ -44,7 +44,7 @@ Bu testler, fonksiyonel testlerin hemen ardından **aynı Excel dosyasında** ye
 Bu klasör, bankacılık mobil uygulaması için hazırlanmış test senaryolarını içermektedir.  
 Detaylar için aşağıdaki dosyayı inceleyebilirsiniz:
 
- [Mobile_Test_Cases.xlsx](./04_Mobile_Testing_BankApp/Mobile_Test_Cases.xlsx)
+ https://github.com/cataep/Test-Portfolio/raw/refs/heads/main/04_Mobile_Testing_BankApp/Mobile_Test_Cases.xlsx
 
 
 
