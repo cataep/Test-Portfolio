@@ -22,4 +22,5 @@ Bu test, varsayımsal bir bankacılık uygulamasının kullanıcı listesi API's
 ## Not
 
 Bu senaryo, gerçek sistem yerine açık demo servisi olan `reqres.in` ile gerçekleştirilmiştir.
+
 JMeter 5.6.3 kullanılarak hazırlanmıştır.
