@@ -43,7 +43,7 @@ Bu testler, fonksiyonel testlerin hemen ardından **aynı Excel dosyasında** ye
 
 Tüm mobil bankacılık uygulaması test senaryolarına aşağıdaki Excel dosyasından ulaşabilirsiniz:
 
-📥 [Mobile_Test_Cases.xlsx](./04_Mobile_Testing_BankApp/Mobile_Test_Cases.xlsx)
+ [Mobile_Test_Cases.xlsx](./04_Mobile_Testing_BankApp/Mobile_Test_Cases.xlsx)
 
 
 ---
