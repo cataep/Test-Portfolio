@@ -27,7 +27,7 @@ Testler, [Dollar Bank](https://dollar.bank) sitesinin erişilebilen sayfaları �
 
 Tüm UI test senaryolarını içeren Excel dosyasına buradan ulaşabilirsiniz:
 
-[UI_Test_Cases_BankApp.xlsx](./03_UI_Testing_WebApp/UI_Test_Cases_BankApp.xlsx)
+https://github.com/cataep/Test-Portfolio/raw/refs/heads/main/03_UI_Testing_WebApp/UI_Test_Cases_BankApp.xlsx
 
 
 ---
