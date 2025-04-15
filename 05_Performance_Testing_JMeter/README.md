@@ -7,8 +7,8 @@ Bu test, `reqres.in` üzerindeki login ve kullanıcı listeleme endpointlerine e
 - Kullanıcı Sayısı: 50
 - Loop Count: 5
 - Endpointler:
-  - POST `/api/login`
-  - GET `/api/users?page=2`
+  - POST `/api/login` (kullanici girisi)
+  - GET `/api/users?page=2` (kullanici cekme)
 
 ## İçerikler
 
