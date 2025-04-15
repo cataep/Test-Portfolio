@@ -15,10 +15,10 @@ Bu test, `reqres.in` üzerindeki login ve kullanıcı listeleme endpointlerine e
 - `BankApp_Load_Test.jmx` – Test Planı
 - `html-report/` – Grafiksel Raporlar (index.html içerir)
 
-## Raporu Görüntülemek
+## Rapor
 
-1. `html-report` klasörünü açın
-2. `index.html` dosyasına çift tıklayın
-3. Tarayıcıda detaylı metrikleri inceleyin
+1. `html-report` 
+2. `index.html` 
+3. Tarayıcıda detaylı metrikler
 
 > JMeter 5.6.3 kullanılarak hazırlanmıştır
