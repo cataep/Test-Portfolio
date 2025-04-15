@@ -1,7 +1,7 @@
 # JMeter Performans Testi – BankApp API
 
 Bu test, `reqres.in` üzerindeki login ve kullanıcı listeleme endpointlerine eş zamanlı yük testi yapılması amacıyla hazırlanmıştır.
-
+JMeter 5.6.3 kullanılarak hazırlanmıştır
 ## Test Özeti
 
 - Kullanıcı Sayısı: 50
@@ -21,4 +21,4 @@ Bu test, `reqres.in` üzerindeki login ve kullanıcı listeleme endpointlerine e
 - Buradan yanıt süreleri, hata oranları ve genel sistem performansı gibi metrikleri görebilirsiniz.
 
 
-> JMeter 5.6.3 kullanılarak hazırlanmıştır
+
