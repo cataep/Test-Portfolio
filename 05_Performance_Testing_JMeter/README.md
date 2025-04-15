@@ -17,8 +17,8 @@ Bu test, `reqres.in` üzerindeki login ve kullanıcı listeleme endpointlerine e
 
 ## Rapor
 
-1. `html-report` 
-2. `index.html` 
-3. Tarayıcıda detaylı metrikler
+- Raporu görüntülemek için `html-report` klasöründeki `index.html` dosyasını bir tarayıcıda açabilirsiniz.  
+- Buradan yanıt süreleri, hata oranları ve genel sistem performansı gibi metrikleri görebilirsiniz.
+
 
 > JMeter 5.6.3 kullanılarak hazırlanmıştır
