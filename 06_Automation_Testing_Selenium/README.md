@@ -17,10 +17,17 @@ Bu klasörde, Selenium WebDriver kullanılarak Firefox üzerinden Parabank uygul
 
 ## Çalıştırmak İçin
 
-1. Sanal ortamı aktive edin:
+1. Sanal ortamı baslat:
 source selenium_env/bin/activate
 
-2. Testi başlatın:
+2. Testi başlat:
 python3 login_test.py
 
+3. Beklenen Sonuç :
+
 ✅ Giriş başarılıysa terminalde bilgi görüntülenir.
+
+Eğer hatalı bilgiler girilirse veya bağlantı başarısız olursa:
+❌ Giriş başarısız.
+
+
