@@ -8,6 +8,11 @@ Bu klasörde, Selenium WebDriver kullanılarak Firefox üzerinden Parabank uygul
 - Şifre: demo
 - Başarılı giriş sonrası yönlendirme kontrolü yapılır
 
+Tüm test adımlarının detaylı hali Excel dosyasında yer almaktadır:
+
+[📄 TestCases_Selenium.xlsx](./TestCases_Selenium.xlsx)
+
+
 ## Kullanılan Teknolojiler
 
 - Python 3.12
