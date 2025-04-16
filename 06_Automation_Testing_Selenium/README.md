@@ -1,6 +1,15 @@
 # Selenium Test Otomasyonu – BankApp (Parabank)
 
 Bu klasörde, Selenium WebDriver kullanılarak Firefox üzerinden Parabank uygulamasına giriş test senaryosu uygulanmıştır.
+> **Not:** Bu test otomasyonu, Python ve Selenium konularını öğrenme sürecimde oluşturulmuştur. 
+> Python ve Selenium'a yeni başlayan biri olarak temel bir giriş testi hazırladım.
+> Amaç: Sürecin işleyişini kavramak ve portföyümde örnek bir otomasyon senaryosu bulundurmaktır.
+
+# Selenium Test Otomasyonu – BankApp (Parabank)
+
+Bu klasörde, Selenium WebDriver kullanılarak Firefox tarayıcısı üzerinde Parabank uygulamasına giriş testi gerçekleştirilmiştir.
+...
+
 
 ## Test Senaryosu
 
