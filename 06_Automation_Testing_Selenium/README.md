@@ -10,7 +10,7 @@ Bu klasörde, Selenium WebDriver kullanılarak Firefox üzerinden Parabank uygul
 
 Tüm test adımlarının detaylı hali Excel dosyasında yer almaktadır:
 
-[📄 TestCases_Selenium.xlsx](./TestCases_Selenium.xlsx)
+[ TestCases_Selenium.xlsx](./TestCases_Selenium.xlsx)
 
 
 ## Kullanılan Teknolojiler
