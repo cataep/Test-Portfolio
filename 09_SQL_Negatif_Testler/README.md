@@ -27,7 +27,9 @@ Tablo adı: `kullanicilar`
 
 ##  Dosyalar
 - `sql_negatif_testler.sql`: Test sorgularını içerir
+- link: 
 - `Negatif_Testler.xlsx`: Test ID, açıklama, sorgu, beklenen ve gerçekleşen sonuçlar
+link:
 
 ##  Notlar
 - Bu testler sadece **okuma, yazma ve bütünlük kontrollerini** kapsar.
